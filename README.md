@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working onfor help with [trello || jira](https://github.com/ResoneAt/TeamTask-RM)
 
-- 💬 Ask me about **Backend-focused Full-Stack Developer | Django, React, Next.js, React Native**
+- 💬 Ask me about **Backend-focused Full-Stack Developer**
 
 - 📫 How to reach me **mysum325g@gmail.com**
 
