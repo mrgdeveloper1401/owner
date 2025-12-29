@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [education-system](https://github.com/mrgdeveloper1401/education-mobile)
 
-- 🤝 I’m looking 🔭 I’m currently working onfor help with [trello || jira](https://github.com/ResoneAt/TeamTask-RM)
+- 🔭 I’m currently working onfor help with [trello || jira](https://github.com/ResoneAt/TeamTask-RM)
 
 - 💬 Ask me about **Backend-focused Full-Stack Developer | Django, React, Next.js, React Native**
 
