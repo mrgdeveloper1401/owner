@@ -31,14 +31,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrgdeveloper1401&theme=onedark&row=1&margin-w=15" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -68,17 +60,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrgdeveloper1401&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgdeveloper1401&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgdeveloper1401&theme=tokyonight" />
-</p>
